@@ -1,5 +1,5 @@
 import time
-from bar_styles import BAR_STYLES, BarColors, BarStyles
+from py_ezbar.bar_styles import BAR_STYLES, BarColors, BarStyles
 
 
 class ProgressBar:

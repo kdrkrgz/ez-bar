@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="ez-bar",
-    version="0.1",
+    version="0.1.2",
     author="kadir-karagoz",
     author_email="kadir@kadirkaragoz.com",
     description="Simple progress bar for terminal",
