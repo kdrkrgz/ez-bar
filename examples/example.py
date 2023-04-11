@@ -1,5 +1,5 @@
 from time import sleep
-from progress_bar import ProgressBar, BarStyles, BarColors
+from py_ezbar import ProgressBar, BarStyles, BarColors
 from faker import Faker
 
 fake = Faker()

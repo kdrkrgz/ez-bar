@@ -1,6 +1,5 @@
 import unittest
-from ez_bar import ProgressBar
-from ez_bar.bar_styles import BarColors, BarStyles
+from py_ezbar import ProgressBar, BarStyles, BarColors
 
 
 class ProgressBarTestCase(unittest.TestCase):

@@ -5,14 +5,14 @@ Very simple customizable progress bar.
 
 ## Installation
 ```bash
-pip install ez-bar
+pip install py-ezbar
 ```
 
 ## Usage and Examples
 
 import, configure and use it's easy
 ```bash
-from ez-bar import ProgressBar, BarStyles, BarColors
+from py_ezbar import ProgressBar, BarStyles, BarColors
     
 progress_bar = ProgressBar(color=BarColors.YELLOW, style=BarStyles.DEFAULT, show_fractions=True)
 t = range(327)
