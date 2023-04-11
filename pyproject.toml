@@ -3,7 +3,7 @@ requires = ["pybuilder>=0.12.0"]
 build-backend = "pybuilder.pep517"
 
 [project]
-name = "ez_bar"
+name = "py_ezbar"
 authors = [{name = "Kadir Karagoz", email = "kadir@kadirkaragoz.com"}]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]

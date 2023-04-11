@@ -11,7 +11,7 @@ setup(
     description="Simple progress bar for terminal",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="github",
+    url="https://github.com/kdrkrgz/ez-bar",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
